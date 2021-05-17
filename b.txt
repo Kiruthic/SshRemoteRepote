@@ -1,1 +1,1 @@
-its the second "b" document
+its the second "b" documentmodify b.txt
